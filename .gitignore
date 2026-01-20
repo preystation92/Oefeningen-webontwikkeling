@@ -1,0 +1,9 @@
+node_modules
+.devcontainer
+.vscode/
+!.vscode/extensions.json    # soms nuttig om te delen
+!.vscode/settings.json      # meestal lokaal → negeer
+.idea/
+*.swp
+*.swo
+*~

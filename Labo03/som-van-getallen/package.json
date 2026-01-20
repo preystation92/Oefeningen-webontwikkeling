@@ -1,5 +1,5 @@
 {
-  "name": "interest-calculator",
+  "name": "som-van-getallen",
   "version": "1.0.0",
   "description": "",
   "main": "index.ts",
@@ -12,6 +12,7 @@
   "devDependencies": {
     "@types/jest": "^29.5.12",
     "@types/node": "^20.11.16",
+    "@types/readline-sync": "^1.4.8",
     "jest": "^29.7.0",
     "ts-jest": "^29.1.2",
     "ts-node": "^10.9.2",
